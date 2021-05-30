@@ -1,4 +1,4 @@
-# Principles of learning 
+# Principles of Learning 
 
 ## 1. Explore
 

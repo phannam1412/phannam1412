@@ -1,4 +1,4 @@
-# Principles of fast learning 
+# Principles of learning 
 
 ## 1. Explore
 

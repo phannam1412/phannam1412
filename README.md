@@ -72,9 +72,9 @@ Give some best practices from other sources, company.
 
 ## 5. Warning for special case, rare conditions, important things to be paid attention to 
 
-## 6. Additional note
+## 6. Additional notes
 
-## 7. Example
+## 7. Examples
 
 ## 8. References
 

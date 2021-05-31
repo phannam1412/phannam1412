@@ -26,7 +26,9 @@ Choose some topics that you're really interested in and deep dive into it, the m
 
 ## 4. Re-think
 
-Always review your existing solution and knowledge to ensure that you have properly understand it.
+Review/revise your existing solution and knowledge to ensure that you have properly understand it.
+
+Sometimes your so-called solution is not actually a solution, your understanding of something is abstract and not proper. Re-thinking promotes a consolidation of your knowledge to make it better every day.
 
 ## 5. Maintenance
 

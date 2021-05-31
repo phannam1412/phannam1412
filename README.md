@@ -2,11 +2,23 @@
 
 ## 1. Explore
 
-Always expore new knowledge, you don't need to understand it, knowing it is enough. It's important for you to know if a solution exists when you're solving a problem
+Expore new things, new knowledge, knowing if a solution/library/framework/technique/skills exists.
+
+Exporing increases your tools for troubleshooting a problem, designing a solution.
+
+Some knowledge are easy to understand, some knowledge are hard to understand, for hard-to-understand thing, don't try to understand it, just know it. 
+
+Exploring is not about trying to understand thing, exploring is about to gain as much knowledge of the outsite world as possible.
+
+Best time for exploring: at the start of a day or at night time. 
+
+Don't explore when your mind are tired or have read to much in that day, your mind need to fresh in order to achieve a better knowledge gaining.
 
 ## 2. Understand
 
-You need to understand something that are repeated or happen in your daily life, when you truly understand it, it's much easier for you to troubleshoot a problem.
+Should understand something that happen repeatedly  in your daily life.
+
+When you truly understand it, it's much easier for you to troubleshoot a problem.
 
 ## 3. Deep dive
 
@@ -19,3 +31,14 @@ Always review your existing solution and knowledge to ensure that you have prope
 ## 5. Maintenance
 
 The fact that human brain has a short-term memory, so always spend time reading/practicing again and again what you have known/understood to maintain your up-to-date knowledge.
+
+# Principles of explanation 
+
+What: what is it ?
+
+Why: why do you need it ?
+
+How: how can you implement/practice it ?
+
+When: when should/shouldn't you implement/practice it ?
+

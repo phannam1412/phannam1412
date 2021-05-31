@@ -34,11 +34,42 @@ The fact that human brain has a short-term memory, so always spend time reading/
 
 # Principles of explanation 
 
-What: what is it ?
+The explaination should contains the following sections with priority order as belows:
 
-Why: why do you need it ?
+## 1. What
 
-How: how can you implement/practice it ?
+What is it ?
 
-When: when should/shouldn't you implement/practice it ?
+Introduce about definition.
 
+## 2. Why
+
+Why do you need it ?
+
+Explain the reason why you need it, what problems may occur when you don't use it.
+
+## 3. How
+
+How can you implement/practice it ?
+
+Explain the process, flow, step by step in details about how to implement or use it.
+
+## 4. When
+
+When should/shouldn't you implement/practice it ?
+
+Introduce some circumstances when you should use it.
+
+Introduce some circumstances when you shouldn't use it.
+
+Give some best practices from other sources, company.
+
+## 5. Warning for special case, rare conditions, important things to be paid attention to 
+
+## 6. Additional note
+
+## 7. Example
+
+## 8. References
+
+## 8. Story behind it

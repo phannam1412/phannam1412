@@ -32,7 +32,7 @@ Always review your existing solution and knowledge to ensure that you have prope
 
 The fact that human brain has a short-term memory, so always spend time reading/practicing again and again what you have known/understood to maintain your up-to-date knowledge.
 
-# Principles of explanation 
+# Principles of Explanation 
 
 The explaination should contains the following sections with priority order as belows:
 

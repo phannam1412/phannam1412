@@ -22,7 +22,11 @@ When you truly understand it, it's much easier for you to troubleshoot a problem
 
 ## 3. Deep dive
 
-Choose some topics that you're really interested in and deep dive into it, the most foundation thing is the basic building block for all things, when you truly understand it, other related things start make sense to you.
+Understand very deeply a particular topic, problem, solution, technique...
+
+All things are created based on foundation layer, or building blocks, so understanding building block is a critical path in fast learning and quickly understanding things in application layer.
+
+Choose some topics that you're really interested in and deep dive into it, when you truly understand it, other related things start make sense to you.
 
 ## 4. Re-think
 

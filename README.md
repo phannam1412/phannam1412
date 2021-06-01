@@ -91,3 +91,25 @@ Give some best practices from other sources, company.
 ## 8. References
 
 ## 8. Story behind it
+
+# Writing a technical article
+
+## 1. Target your audience
+
+## 2. Parts of a technical article
+### 2.1. Opening, describe the context that leads to the topic
+### 2.2. Describe the topic in an overview way
+
+Describe the topic in an easy to understand way 
+
+### 2.3. Describe the topic in deep
+
+Describe the technical details of the topic 
+
+### 2.4. Summary
+
+- notes
+- best practices
+- warning
+- promises
+

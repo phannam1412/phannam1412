@@ -36,9 +36,14 @@ Sometimes your so-called solution is not actually a solution, your understanding
 
 ## 5. Maintenance
 
-The fact that human brain has a short-term memory, so always spend time reading/practicing again and again what you have known/understood to maintain your up-to-date knowledge.
+Always spend time reading/practicing again and again what you have known/understood.
 
-# Principles of Explanation 
+The fact that human brain has a short-term memory, in order to prevent it, knowledge maintenance helps maintain up-to-date knowledge.
+
+Keep reading, revising what you have known for at least once a week.
+Surfing and answering on social network also help reminding your knowledge.
+
+# Principles of Explanation
 
 The explaination should contains the following sections with priority order as belows:
 

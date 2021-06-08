@@ -50,7 +50,7 @@ Keep reading, revising what you have known for at least once a week.
 Surfing and answering on social network also help reminding your knowledge. 
 Helping your colleges, teammate in their problems.
 
-# Principles of Explanation
+# Format of Explaination
 
 The explaination should contains the following sections with priority order as belows:
 
@@ -92,21 +92,32 @@ Give some best practices from other sources, company.
 
 ## 8. Story behind it
 
-# Writing a technical article
+# Principles of Explaination 
 
-## 1. Target your audience
+## 1. Target audience
 
-## 2. Parts of a technical article
-### 2.1. Opening, describe the context that leads to the topic
-### 2.2. Describe the topic in an overview way
+What is your audience ? A programmer, business owner, student...
+
+## 2. Increase interests, increase hard level
+
+Explain basic, simple stuff first.
+Explain how it works in a simple way. 
+Use illustration if possible.
+Use everyone-can-know words for describing the problem, solution that a 10-years-old kid can understand.
+
+# Parts of a technical article
+
+## 1. Opening, describe the context that leads to the topic
+
+## 2. Describe the topic in an overview way
 
 Describe the topic in an easy to understand way 
 
-### 2.3. Describe the topic in deep
+### 3. Describe the topic in deep
 
 Describe the technical details of the topic 
 
-### 2.4. Summary
+### 4. Summary
 
 - notes
 - best practices
